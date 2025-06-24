@@ -22,7 +22,7 @@ To analyze a sample phishing email and identify characteristics that indicate a 
 ## Files Included
 
 - `Theertha-A_Task2.pdf`: Detailed report of the analysis
-- `screenshot1.png`, `screenshot2.png`, screenshot3.png`, screenshot4.png`: Email content and header analysis images
+- `screenshot1.png`, `screenshot2.png`, `screenshot3.png`, screenshot4.png`: Email content and header analysis images
 
 ## Conclusion
 
