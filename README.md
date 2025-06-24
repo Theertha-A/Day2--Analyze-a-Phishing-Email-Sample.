@@ -1,4 +1,4 @@
-# Day2-Analyze a Phishing Email Sample.
+#Day2-Analyze a Phishing Email Sample..
 # Phishing Email Analysis (Task 2)
 
 This repository contains the analysis of a phishing email sample.
